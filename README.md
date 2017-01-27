@@ -10,3 +10,4 @@ I want to see:
  * the amount of uncommited change in them
  * how long since they last pulled changes in from integration
 
+and thats all
