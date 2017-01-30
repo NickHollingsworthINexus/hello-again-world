@@ -10,7 +10,4 @@ I want to see:
  * the amount of uncommited change in them
  * how long since they last pulled changes in from integration
 
-and thats all
-
-really
-
+OtherREADME is for dull stuff and README is for the best stuff!
